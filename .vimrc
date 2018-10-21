@@ -1,6 +1,3 @@
-"""""""""""""""""""""""""""""""""""""
-" Allan MacGregor Vimrc configuration 
-"""""""""""""""""""""""""""""""""""""
 set encoding=utf8
 
 """" START Vundle Configuration 
